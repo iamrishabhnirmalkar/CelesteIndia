@@ -1,4 +1,5 @@
+import BeforeHeader from "./BeforHeader/BeforeHeader";
 import Header from "./Header/header";
 import Footer from "./Footer/footer";
 
-export { Header, Footer };
+export { BeforeHeader, Header, Footer };
